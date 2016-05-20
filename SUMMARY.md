@@ -1,4 +1,4 @@
 # Summary
 
-* [Foreword](FOREWORD.md)
-* 
+* [Foreword](somecontent/FOREWORD.md)
+*
