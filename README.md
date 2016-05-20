@@ -27,3 +27,10 @@ All styling of the PDF happens in ```assets/CustomBook.cls```.
 * Latexmk
 * Bash / Make
 * Pandoc
+
+### License
+
+Booksuite is dedicated to the public domain with
+[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0). If
+you want a different license for your book, change this notice and
+the accompanying `LICENSE.md` file.
