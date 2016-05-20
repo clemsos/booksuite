@@ -17,7 +17,7 @@ Fork this rep to get started
 ### Generate a PDF
 
 
-All styling of the PDF happens in the ```assets/CustomBook.cls``` file .
+All styling of the PDF happens in ```assets/CustomBook.cls```.
 
 
 
