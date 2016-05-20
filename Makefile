@@ -1,6 +1,6 @@
 # Build the book
 
-BOOK_NAME = Datfic
+BOOK_NAME = MyGreatBook
 TEX_PATH = ./latex
 MD_FILES = $(shell find . -name "*.md" -not -path "./_book/*"  ! -name "README.md" ! -name "SUMMARY.md")
 TEX_FILES = $(patsubst ./%.md, ./latex/%.tex, $(MD_FILES))
