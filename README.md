@@ -2,7 +2,7 @@
 
 Booksuite is a toolkit for collaborative writing, editing and publishing.
 
-Based on work for costoffreedom and waitingbassel
+Based on work done for [Cost of Freedom](https://github.com/costoffreedom/costoffreedom-book) and [Waiting 4 Bassel](https://github.com/waiting4bassel/waiting-latex)
 
 Fork this rep to get started
 
