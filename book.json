@@ -1,0 +1,13 @@
+{
+    "title": "Our Piece of Writing",
+    "description": "Some important stuff goes here",
+    "language": "en",
+    "author" : "Collective",
+    "structure": {
+      "readme": "README.md"
+    },
+    "plugins": [
+        "layout",
+        "collapsible-menu"
+    ]
+}
